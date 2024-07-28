@@ -1,4 +1,4 @@
-# Final Project: Personal Expense Tracking App
+# Personal Expense Tracking App
 
 The goal of this project is create a Python app that lets you (as a user) track and categorize your monthly expenses and help you budget.
 
@@ -12,11 +12,6 @@ It'll also tell the user how much they can spend for the rest of the month to st
 2. Save expense entries to a `.csv` file.
 3. Read the file to summarise the expense totals for that month
 4. Show the user how much they can spend for the rest of the month (to stay in budget)
-
-### ✨ Bonus
-
-1. Show expenses by category
-2. Give the user a rough estimate of how much they have left to spend per day
 
 ## 💡 Recommended Project Structure
 

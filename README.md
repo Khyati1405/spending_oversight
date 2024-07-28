@@ -1,4 +1,4 @@
-# Personal Expense Tracking App
+# Spending_oversight
 
 The goal of this project is that it lets you (as a user) track and categorize your monthly expenses and help you budget.
 

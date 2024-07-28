@@ -30,11 +30,3 @@ The final project will consist of 2 files:
 1. Create the `expense.py` class.
 2. Create the `expense_tracker.py` file and write the main logic for the app.
 3. Run the app to test it.
-
-## Example Screenshot
-
-![Expense Tracker App](expense_cli.png)
-
-You should also be able to import your generated CSV to apps like Excel and Google Drive.
-
-![Expense Tracker Google Drive](expense_drive.png)
